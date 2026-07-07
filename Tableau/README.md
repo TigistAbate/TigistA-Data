@@ -6,30 +6,24 @@ This folder contains Tableau visualisation projects completed during the Level 3
 
 ## Skills Demonstrated
 
-- Data Visualisation
-- Interactive Dashboards
-- Filters
-- Charts and Graphs
-- Trend Analysis
-- Dashboard Design
-- Data Storytelling
+- Data visualisation
+- Dashboard design
+- Interactive filters
+- Trend analysis
+- Data storytelling
+- Tableau Public
 
-## Visualisations
+## Dashboard
 
-### 1. Life Expectancy by Continent
-- Compared average life expectancy across continents using a bar chart.
+View my interactive Tableau dashboard here:
 
-### 2. Life Expectancy Trend
-- Analysed life expectancy trends over time using a line chart.
+🔗 **Tableau Public:** https://public.tableau.com/app/profile/tigist.abate/viz/BookAssignemnt2/GlobalHealthDashboard?publish=yes
 
-### 3. Population by Gender
-- Compared male and female populations using a pie chart.
+## Visualisations Included
 
-### 4. Life Expectancy vs BMI
-- Investigated the relationship between BMI and life expectancy using a scatter plot.
-
-### 5. Average BMI by Country
-- Compared average BMI across countries using a bar chart.
-
-### 6. Global Health Dashboard
-- Combined multiple visualisations into an interactive dashboard with filters for country, continent, gender, and population.
+- Life Expectancy by Continent
+- Life Expectancy Trend
+- Population by Gender
+- Life Expectancy vs BMI
+- Average BMI by Country
+- Global Health Dashboard
