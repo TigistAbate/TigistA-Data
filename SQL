@@ -1,1 +1,31 @@
+# SQL Projects
 
+## Overview
+
+This folder contains SQL exercises completed during my Level 3 Data Technician Skills Bootcamp.
+
+## Projects
+
+### Day 4 Task 1
+- Designed a relational database for a retail business.
+- Created tables using primary and foreign keys.
+- Wrote SQL statements for database creation and data insertion.
+
+### Day 4 Task 2
+- Completed practical SQL exercises using the World Database.
+- Wrote queries using:
+  - SELECT
+  - WHERE
+  - ORDER BY
+  - LIMIT
+  - LIKE
+  - GROUP BY
+  - JOIN
+  - Aggregate functions
+  - Subqueries
+
+## Tools
+
+- MySQL Workbench
+- SQL
+- World Database
