@@ -2,7 +2,7 @@
 
 ## Overview
 
-This folder contains my completed SQL workbook from the Level 3 Data Technician Skills Bootcamp.
+This folder contains my completed SQL Project from the Level 3 Data Technician Skills Bootcamp.
 
 ## Skills Demonstrated
 
@@ -19,4 +19,5 @@ This folder contains my completed SQL workbook from the Level 3 Data Technician 
 
 ## File
 
-- SQL_Bootcamp_Workbook.pdf
+- SQL_Bootcamp_Project.txt
+  
