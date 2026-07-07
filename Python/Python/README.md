@@ -2,7 +2,7 @@
 
 ## Overview
 
-This folder contains my Python project completed during the Level 3 Data Technician Skills Bootcamp.
+This folder contains Python projects completed during the Level 3 Data Technician Skills Bootcamp.
 
 ## Skills Demonstrated
 
@@ -10,14 +10,23 @@ This folder contains my Python project completed during the Level 3 Data Technic
 - Pandas
 - Data Cleaning
 - Data Analysis
-- DataFrames
-- CSV Import and Export
-- Grouping and Aggregation
-- Pivot Tables
-- Data Visualisation with Matplotlib
+- Matplotlib
+- Seaborn
+- Data Visualisation
+- CSV Handling
 
-## Project
+## Projects
 
-**Python_project_1.ipynb**
+### 1. Python Project 1
+- Data exploration using Pandas
+- Data cleaning
+- Data manipulation
+- Data analysis
 
-This project demonstrates practical Python data analysis using Pandas, including loading datasets, exploring data, cleaning data, and performing basic analysis.
+### 2. Python Visualisations
+- Histogram
+- Scatter Plot
+- Box Plot
+- Count Plot
+- Average Marks by Gender
+- Data visualisation using Matplotlib and Seaborn
