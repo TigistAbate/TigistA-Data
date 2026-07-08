@@ -1,25 +1,58 @@
 # Hi, I'm Tigist  👋
 
-I'm building my GitHub portfolio to showcase the projects I have completed during my Data Technician Bootcamp. My goal is to demonstrate my skills in data analysis, programming, and data visualisation while continuing to develop my knowledge and experience in data.
+🎓 ** Data Technician Skills Bootcamp Graduate**  
+📊 Passionate about Data Analysis, Data Visualisation and Business Intelligence.
 
-## What I have learnt
+Welcome to my GitHub portfolio! This repository showcases the projects I completed during my Data Technician Skills Bootcamp, where I developed practical skills in analysing data, creating dashboards and solving business problems using industry-standard tools.
 
-- **Excel and Data Basics** – I learned how to organise, clean, analyse, and visualise data using formulas, functions, charts, and PivotTables.
+---
 
-- **Python / Google Colab** – I learned to use Python and Pandas to load, clean, analyse, and visualise data using Jupyter Notebooks and Google Colab.
+## 🛠️ Skills & Tools
 
-- **SQL / MySQL Workbench** – I learned how to write SQL queries to retrieve, filter, sort, group, and analyse data stored in databases.
+- 📗 Microsoft Excel
+- 🐍 Python (Pandas, Matplotlib, Seaborn)
+- 🗄️ SQL (MySQL Workbench)
+- 📊 Power BI
+- 📈 Tableau
+- ☁️ Microsoft Azure
 
-- **Tableau / Power BI** – I learned how to create interactive dashboards and visualisations to present data clearly and support decision-making.
+---
 
-## Projects I have completed
+## 📂 Portfolio Projects
 
-- **Excel** – Analysed datasets using formulas, PivotTables, charts, and data cleaning techniques.
+### 📗 Excel
+- Student Performance Analysis
+- Sales Data Analysis
+- PivotTables, Charts, Formulas and Functions
 
-- **Python** – Completed projects using Pandas, including data exploration, grouping, filtering, pivot tables, and data visualisation.
+### 🐍 Python
+- Data Cleaning
+- Data Analysis with Pandas
+- Data Visualisation
 
-- **SQL** – Wrote SQL queries to extract and analyse data from relational databases.
+### 🗄️ SQL
+- Database Design
+- SQL Queries
+- Data Exploration
 
-- **Power BI** – Created dashboards to visualise business data and communicate insights effectively.
+### 📊 Power BI
+- Adventure Works Sales Dashboard
+- Interactive Reports
 
-- **Tableau** – Built interactive dashboards to explore trends and present data visually.
+### 📈 Tableau
+- Interactive Dashboards
+- Data Storytelling
+
+
+
+---
+
+## 🌱 Continuing My Learning
+
+I am continuing to develop my skills in data analytics, business intelligence and cloud technologies through hands-on projects and continuous learning.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** [Tigist Abate](https://www.linkedin.com/in/tigist-abate-6425931a1)
