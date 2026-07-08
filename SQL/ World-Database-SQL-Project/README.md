@@ -16,6 +16,37 @@
 - Relational database querying
 
 ---
+## SQL Query Examples
+
+### 1. Count Cities in the USA
+
+This query counts the total number of cities in the USA using the `COUNT()` function and a `WHERE` clause.
+
+![Count Cities in the USA](01-count-cities-usa.png)
+
+---
+
+### 2. Country with the Highest Life Expectancy
+
+This query sorts countries by life expectancy in descending order and returns the country with the highest value.
+
+![Country with the Highest Life Expectancy](02-highest-life-expectancy.png)
+
+---
+
+### 3. Cities Containing "New"
+
+This query uses the `LIKE` operator to find cities whose names contain the word "New".
+
+![Cities Containing "New"](03-cities-with-new.png)
+
+---
+
+### 4. Top 10 Most Populated Cities
+
+This query sorts cities by population in descending order and displays the ten most populated cities.
+
+![Top 10 Most Populated Cities](04-top-10-most-populated-cities.png)
 
 ## Dataset
 
