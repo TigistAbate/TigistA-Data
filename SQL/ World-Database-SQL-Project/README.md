@@ -95,17 +95,13 @@ These organisations use population and demographic data to support planning, res
 
 ## Key Findings
 
-### Finding 1
-SQL queries can quickly retrieve specific information from large datasets.
+ 1 SQL queries can quickly retrieve specific information from large datasets.
 
-**What this means:**  
-This helps organisations make faster and more informed decisions.
+What this means:This helps organisations make faster and more informed decisions.
 
-### Finding 2
-Filtering, sorting and grouping data makes it easier to identify useful patterns and trends.
+ 2 Filtering, sorting and grouping data makes it easier to identify useful patterns and trends.
 
-**What this means:**  
-This supports better planning, reporting and business analysis.
+What this means:This supports better planning, reporting and business analysis.
 
 ---
 
