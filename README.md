@@ -4,39 +4,39 @@ Welcome to my GitHub portfolio! This repository showcases the projects I complet
 
 ---
 
-## 🛠️ Skills & Tools
+## What I have learnt
 
-- 📗 Microsoft Excel
-- 🐍 Python (Pandas, Matplotlib, Seaborn)
-- 🗄️ SQL (MySQL Workbench)
-- 📊 Power BI
-- 📈 Tableau
-- ☁️ Microsoft Azure
+- Microsoft Excel
+- Python (Pandas, Matplotlib, Seaborn)
+- SQL (MySQL Workbench)
+- Power BI
+- Tableau
+- Microsoft Azure
 
 ---
 
-## 📂 Portfolio Projects
+## 📂 Portfolio Projects i have complated
 
-### 📗 Excel
+### Excel
 - Student Performance Analysis
 - Sales Data Analysis
 - PivotTables, Charts, Formulas and Functions
 
-### 🐍 Python
+###  Python
 - Data Cleaning
 - Data Analysis with Pandas
 - Data Visualisation
 
-### 🗄️ SQL
+###  SQL
 - Database Design
 - SQL Queries
 - Data Exploration
 
-### 📊 Power BI
+### Power BI
 - Adventure Works Sales Dashboard
 - Interactive Reports
 
-### 📈 Tableau
+### Tableau
 - Interactive Dashboards
 - Data Storytelling
 
