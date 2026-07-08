@@ -101,33 +101,19 @@ Each visualisation helps answer a different question about the dataset and demon
 
 # Key Findings
 
-## Finding 1
+1 Most students achieved marks between approximately 70 and 90, showing generally good overall performance.
 
-Most students achieved marks between approximately 70 and 90, showing generally good overall performance.
-
-**What this means**
-
-Teachers can quickly identify the overall performance level of students and recognise whether results are concentrated within a particular range.
+**What this means Teachers can quickly identify the overall performance level of students and recognise whether results are concentrated within a particular range.
 
 ---
+ 2 Student performance varies across different classes, with some classes achieving higher average marks than others.
 
-## Finding 2
-
-Student performance varies across different classes, with some classes achieving higher average marks than others.
-
-**What this means**
-
-Schools can investigate differences between classes to understand factors affecting student achievement and provide additional support where required.
+**What this means  Schools can investigate differences between classes to understand factors affecting student achievement and provide additional support where required.
 
 ---
+3 The visualisations also compare average marks by gender, making it easier to identify similarities and differences in student performance.
 
-## Finding 3
-
-The visualisations also compare average marks by gender, making it easier to identify similarities and differences in student performance.
-
-**What this means**
-
-Educational organisations can use this information to monitor equality of outcomes and ensure all students receive appropriate support.
+*What this means Educational organisations can use this information to monitor equality of outcomes and ensure all students receive appropriate support.
 
 ---
 
@@ -136,7 +122,9 @@ Educational organisations can use this information to monitor equality of outcom
 The following files demonstrate the work completed during this project:
 
 - Python_project_1.ipynb
+- https://colab.research.google.com/drive/1IKe2b5X9UOWP72AW84ZMno2Uhq8a11Ek#scrollTo=5yfvPk1I-g2M
 - Python_Visualization.ipynb
+- https://colab.research.google.com/drive/12HdO4dzpy9JFQYoSTpl809MSiKgM7tk1#scrollTo=zjJ6icySFcQr
 
 These notebooks include the Python code, analysis and visualisations produced during the Bootcamp.
 
