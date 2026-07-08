@@ -1,4 +1,4 @@
-# Hi, I'm Tigist Abate 👋
+# Hi, I'm Tigist  👋
 
 I'm building my GitHub portfolio to showcase the projects I have completed during my Data Technician Bootcamp. My goal is to demonstrate my skills in data analysis, programming, and data visualisation while continuing to develop my knowledge and experience in data.
 
