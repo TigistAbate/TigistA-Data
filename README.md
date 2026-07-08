@@ -1,8 +1,5 @@
 # Hi, I'm Tigist  👋
 
-🎓 ** Data Technician Skills Bootcamp Graduate**  
-📊 Passionate about Data Analysis, Data Visualisation and Business Intelligence.
-
 Welcome to my GitHub portfolio! This repository showcases the projects I completed during my Data Technician Skills Bootcamp, where I developed practical skills in analysing data, creating dashboards and solving business problems using industry-standard tools.
 
 ---
