@@ -1,29 +1,126 @@
-# Tableau
+# Health GapMinder Dashboard
 
 ## Overview
 
-This folder contains Tableau visualisation projects completed during the Level 3 Data Technician Skills Bootcamp.
+This project was completed during my Level 3 Data Technician Skills Bootcamp using Tableau. The aim was to analyse the Health GapMinder dataset and create interactive visualisations to identify health trends and disparities across different countries and continents.
+
+## Scenario
+
+As a data analyst working for a global health organisation, I analysed the Health GapMinder dataset to help identify health trends, compare countries and continents, and provide insights that could support future healthcare planning and decision-making.
+
+## Objective
+
+To create interactive Tableau visualisations that explore life expectancy, population and Body Mass Index (BMI), allowing users to identify trends and compare health data across different regions.
 
 ## Skills Demonstrated
 
+- Tableau Desktop
 - Data visualisation
 - Dashboard design
-- Interactive filters
-- Trend analysis
+- Interactive dashboards
+- Filtering
+- Sorting
+- Colour formatting
+- Pie charts
+- Bar charts
+- Line charts
+- Scatter plots
 - Data storytelling
-- Tableau Public
 
-## Dashboard
+## Dataset
 
-View my interactive Tableau dashboard here:
+The Health GapMinder dataset contains approximately 6,000 records with information about countries, continents, life expectancy, Body Mass Index (BMI), population, gender and year. The dataset was used to analyse global health trends and create interactive dashboards.
 
-🔗 **Tableau Public:** https://public.tableau.com/app/profile/tigist.abate/viz/BookAssignemnt2/GlobalHealthDashboard?publish=yes
+## Organisation Type
 
-## Visualisations Included
+This type of dashboard could be used by global health organisations, government agencies, healthcare providers or researchers to monitor health trends and support decision-making.
 
-- Life Expectancy by Continent
-- Life Expectancy Trend
-- Population by Gender
-- Life Expectancy vs BMI
-- Average BMI by Country
-- Global Health Dashboard
+## Business Value
+
+Interactive dashboards help organisations compare countries, identify health inequalities and monitor changes over time. These insights can support healthcare planning and policy decisions.
+
+## What I Did
+
+- Connected the Health GapMinder dataset to Tableau.
+- Checked the dataset and verified the data types.
+- Created a bar chart showing average life expectancy by continent.
+- Created a line chart showing life expectancy trends for the top five countries.
+- Created a pie chart showing population distribution by gender.
+- Created additional visualisations to compare average BMI by country and explore the relationship between BMI and life expectancy.
+- Applied filters, colours and formatting to improve the visualisations.
+- Combined the worksheets into an interactive dashboard.
+- Reviewed the dashboard to ensure all visualisations displayed the correct information.
+
+## Dashboard Visualisations
+
+### Dashboard
+
+The completed dashboard combines several visualisations into one interactive report, allowing users to explore different aspects of the dataset.
+
+<img width="1472" height="777" alt="Dashboard" src="https://github.com/user-attachments/assets/6fd4f105-e9a1-491a-bb22-66d7c2820c26" />
+
+---
+
+### Life Expectancy by Continent
+
+This visualisation compares the average life expectancy across different continents, making regional differences easy to identify.
+
+<img width="3185" height="1670" alt="Life Expectancy by Continent " src="https://github.com/user-attachments/assets/f9b43c9a-600c-4481-9279-96fd193a5aef" />
+
+---
+
+### Life Expectancy Trend
+
+This line chart shows how life expectancy has changed over time for the top five countries with the highest average life expectancy.
+
+<img width="3840" height="1965" alt="Life Expectancy Trend" src="https://github.com/user-attachments/assets/f425c39c-5b71-4d5c-a064-013d2f58b8c2" />
+
+---
+
+### Population Distribution by Gender
+
+This pie chart compares the male and female population for a selected country and year.
+
+<img width="3835" height="2005" alt="Population_by_gender" src="https://github.com/user-attachments/assets/1bceb97f-5c43-4ae0-b4e2-4b369b4ea5ab" />
+
+---
+
+### Average BMI by Country
+
+This chart compares the average BMI across different countries, helping identify variations in population health.
+
+<img width="3832" height="1950" alt="Average BMI by Country" src="https://github.com/user-attachments/assets/4e87497d-e382-4d86-9933-680a44958d91" />
+
+
+---
+
+### Life Expectancy vs BMI
+
+This scatter plot explores the relationship between average BMI and life expectancy across countries.
+
+<img width="3840" height="1995" alt="life_expectancy_vs_bmi" src="https://github.com/user-attachments/assets/1cb1560e-c547-40ca-94d4-73df7e97047e" />
+
+
+## Key Findings
+
+- Average life expectancy varies across continents, highlighting regional differences in health outcomes.
+- Some countries consistently record higher life expectancy than others over time.
+- Population distribution differs between genders depending on the selected country.
+- BMI varies across countries and may show patterns when compared with life expectancy.
+- Interactive dashboards make it easier to explore data, identify trends and support evidence-based decision-making.
+
+## Tools Used
+
+- Tableau Desktop
+- Interactive Dashboards
+- Filters
+- Sorting
+- Colour Formatting
+- Bar Charts
+- Line Charts
+- Pie Charts
+- Scatter Plots
+
+## Why This Project Belongs in My Portfolio
+
+This project demonstrates my ability to use Tableau to create interactive dashboards that communicate complex health data clearly. It showcases my skills in data visualisation, dashboard design and presenting insights that support informed decision-making.
