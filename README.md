@@ -1,7 +1,8 @@
 # Hi, I'm Tigist  👋
 
-I’m building my portfolio to showcase the projects I completed during my Data course.
-
+Welcome to my Data Analytics portfolio! This repository contains a collection of projects completed during my Level 3 Data Technician Skills Bootcamp, showcasing my skills. Each project demonstrates how I applied data analysis and visualisation techniques to solve real-world business scenarios.
+<br>
+<br>
 ## What I Have Learnt
 
 - **Excel & Data Fundamentals** – I learned how to organise, clean, analyse and visualise data using Excel tables, formulas, functions, PivotTables, charts and conditional formatting.
@@ -10,16 +11,29 @@ I’m building my portfolio to showcase the projects I completed during my Data 
 - **Tableau** – I learned how to create interactive dashboards and visualisations using filters, charts and dashboards to present data clearly.
 - **Power BI** – I learned how to clean data using Power Query, create interactive dashboards, build reports and use visualisations to communicate business insights.
 - **Microsoft Azure** – I learned the fundamentals of cloud computing, Azure data services, data storage and cloud-based data processing.
+<br>
+<br>
 
-## Projects I Have Completed
+## Projects I've Completed
 
-- **Excel** – Completed data analysis projects using formulas, PivotTables, charts, sorting, filtering and conditional formatting.
-- **Python** – Analysed datasets using Pandas and created visualisations with Matplotlib and Seaborn.
-- **SQL** – Queried relational databases, designed an ERD and analysed data using SQL queries in MySQL Workbench.
-- **Tableau** – Created interactive dashboards to analyse global health data and present key insights.
-- **Power BI** – Built interactive sales dashboards to analyse business performance and communicate insights.
+- 📊 **[Excel](Excel/)**  
+  Completed projects covering data cleaning, formulas, PivotTables, charts, conditional formatting, sorting and filtering using student, sales and retail datasets.
+
+- 🗄️ **[SQL](SQL/)**  
+  Designed relational databases using ERDs and analysed data by writing SQL queries with filtering, sorting, joins, grouping and aggregation in MySQL Workbench.
+
+- 🐍 **[Python](Python/)**  
+  Analysed and visualised datasets using Pandas, Matplotlib and Seaborn, including data cleaning, filtering, grouping and creating charts.
+
+- 📈 **[Tableau](Tableau/)**  
+  Built interactive dashboards to analyse global health data, exploring life expectancy, BMI, population and health trends across countries.
+
+- 📊 **[Power BI](PowerBI/)**  
+  Created interactive sales dashboards using Adventure Works data, applying Power Query, visualisations, filters and report design techniques.
 
 
+<br>
+<br>
 
 ## 📫 Connect With Me
 
