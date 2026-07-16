@@ -1,7 +1,5 @@
 # 📊 Excel Projects
 
-This section contains Microsoft Excel projects. These projects demonstrate my ability to clean, organise, analyse and visualise data using Excel to solve real-world business problems.
-
 ---
 
 # Project 1: Sales Performance Analysis
@@ -10,39 +8,10 @@ This section contains Microsoft Excel projects. These projects demonstrate my ab
 
 In this project, I analysed a retail sales dataset by creating a PivotTable to summarise sales by county and product and using the Excel SWITCH function to categorise products based on sales volume.
 
-## Objective
-
 To summarise sales data, categorise sales performance, and present meaningful business insights using Microsoft Excel.
-
-## Skills Demonstrated
-
-- Data cleaning and preparation
-- Excel Tables
-- PivotTables
-- Formulas and Functions
-- SWITCH Function
-- Data analysis
-- Sorting and filtering
-
-## Dataset
-
-**Dataset:** Dataset_with_SWITCH
-
-**Description**
 
 This dataset contains product sales across different counties in England. It was used to summarise sales by county and product and categorise sales volumes into High, Medium and Low.
 
-## Organisation Type
-
-Retail Business
-
-### Why is this important?
-
-Retail businesses use sales data to monitor product performance, identify trends and support business decision-making.
-
-## Tools Used
-
-- Microsoft Excel
 
 ## What I Did
 
@@ -75,9 +44,6 @@ Retail businesses use sales data to monitor product performance, identify trends
 - The SWITCH function quickly identified High, Medium and Low sales categories.
 - Cleaning the data ensured accurate PivotTable calculations.
 
-## Why This Project Belongs in My Portfolio
-
-This project demonstrates my ability to clean, organise and analyse business data using Excel. It also shows my understanding of PivotTables and Excel functions to answer business questions.
 
 ---
 
@@ -86,40 +52,9 @@ This project demonstrates my ability to clean, organise and analyse business dat
 ## Overview
 
 This project involved analysing student performance by calculating average marks, identifying the highest scores, and highlighting key results using Excel formulas and data analysis tools.
-
-## Objective
-
-To analyse student performance using formulas, sorting, filtering and conditional formatting.
-
-## Skills Demonstrated
-
-- Microsoft Excel
-- Data analysis
-- Data organisation
-- AVERAGE Function
-- MAX Function
-- Sorting and filtering
-- Conditional formatting
-
-## Dataset
-
-**Dataset:** Student Performance Dataset
-
-**Description**
-
+Used analyse student performance using formulas, sorting, filtering and conditional formatting.
 The dataset contains student names and marks in English, Mathematics and Science. It was used to calculate averages, identify the highest scores and compare student performance.
 
-## Organisation Type
-
-School / College / Educational Institution
-
-### Why is this important?
-
-Educational organisations use this type of analysis to monitor student performance, identify high-achieving students and provide additional support where needed.
-
-## Tools Used
-
-- Microsoft Excel
 
 ## What I Did
 
@@ -172,6 +107,18 @@ Educational organisations use this type of analysis to monitor student performan
 - Sorting and filtering quickly identified the highest-performing students.
 - Conditional formatting made key results easier to identify.
 
-## Why This Project Belongs in My Portfolio
+## Skills Demonstrated
 
-This project demonstrates my ability to use Excel to organise, analyse and interpret data using formulas, sorting, filtering and conditional formatting. It shows that I can transform raw data into meaningful insights that support decision-making.
+- MAX Function
+-  Microsoft Excel
+- AVERAGE Function
+- Data organisation
+- Data cleaning and preparation
+- Excel Tables
+- PivotTables
+- Formulas and Functions
+- SWITCH Function
+- Data analysis
+- Sorting and filtering
+- Conditional formatting
+
