@@ -2,7 +2,7 @@
 
 ## Overview
 
-This folder contains Python projects completed during my Level 3 Data Technician Skills Bootcamp using Google Colab. These projects demonstrate my ability to import, clean, analyse and visualise data using Python. Throughout these exercises, I developed practical experience using Python libraries to explore datasets, identify patterns and communicate insights through charts and visualisations.
+This folder contains Python projects completed during Data Technician Skills Bootcamp using Google Colab. These projects demonstrate my ability to import, clean, analyse and visualise data using Python. Throughout these exercises, I developed practical experience using Python libraries to explore datasets, identify patterns and communicate insights through charts and visualisations.
 
 ---
 
@@ -37,9 +37,7 @@ Student Dataset
 
 The dataset contains information about students, including their class, gender and examination marks. It was used to practise analysing data, identifying trends and creating different types of visualisations using Python.
 
-### Source
 
-Level 3 Data Technician Skills Bootcamp dataset.
 
 ### Dataset Summary
 
@@ -47,27 +45,7 @@ The dataset provides student performance information that can be analysed to und
 
 ---
 
-# Organisation
 
-## Organisation Type
-
-School, College or Educational Institution
-
-### Why would this organisation use this data?
-
-Schools and colleges regularly analyse student performance to monitor academic progress, identify students who may need additional support and evaluate overall achievement. Data visualisation allows educators to understand trends quickly and make evidence-based decisions.
-
----
-
-# Tools Used
-
-- Python
-- Google Colab
-- Pandas
-- Matplotlib
-- Seaborn
-
----
 
 # What I Did
 
@@ -90,10 +68,20 @@ During this project I:
 The notebook includes several different charts to explore the dataset, including:
 
 - Histogram showing the distribution of student marks.
+- <img width="981" height="638" alt="image" src="https://github.com/user-attachments/assets/66bd5751-5c9a-4f44-9859-2b512387d36f" />
+
 - Scatter plot comparing marks by gender.
+- <img width="981" height="638" alt="image" src="https://github.com/user-attachments/assets/924b7db9-48d7-47bb-bb46-a952298f5bf8" />
+
 - Box plot showing marks by class.
+- <img width="981" height="638" alt="image" src="https://github.com/user-attachments/assets/cb459edb-e904-45b0-935a-b460f4b17f07" />
+
 - Count plot showing the number of students in each class.
+- <img width="981" height="638" alt="image" src="https://github.com/user-attachments/assets/88228f7b-577a-4137-8373-d02c58611ef9" />
+
 - Bar chart displaying the average marks by gender.
+- <img width="981" height="638" alt="image" src="https://github.com/user-attachments/assets/a09172ea-a2f8-4c12-87b3-0bcaffe665c2" />
+
 
 Each visualisation helps answer a different question about the dataset and demonstrates my ability to present data in a clear and meaningful way.
 
