@@ -47,6 +47,7 @@ I used the World database, which contains information about countries, cities an
 
 <img width="865" height="1270" alt="04-first-10-rows" src="https://github.com/user-attachments/assets/e7a70e79-3128-42e0-bf8d-5471d4fcff9a" />
 
+https://github.com/TigistAbate/TigistA-Data/blob/main/SQL/SQL_Bootcamp_project.txt
 
 ## Key Findings
 
@@ -55,9 +56,7 @@ I used the World database, which contains information about countries, cities an
 - Aggregate functions helped summarise data and answer business questions.
 - SQL is an effective tool for analysing structured data stored in relational databases.
 
-## Why This Project Belongs in My Portfolio
 
-This project demonstrates my ability to write SQL queries to retrieve, filter and analyse data from relational databases. It shows that I can use SQL to answer business questions and generate meaningful insights.
 
 ---
 
@@ -67,28 +66,7 @@ This project demonstrates my ability to write SQL queries to retrieve, filter an
 
 In this project, I designed an Entity Relationship Diagram (ERD) using MySQL Workbench to understand how tables in the World database are connected through primary and foreign keys.
 
-## Objective
 
-To develop an understanding of relational database design by creating an Entity Relationship Diagram that models the relationships between tables.
-
-
-
-## Dataset
-
-I used the World database, which contains information about countries, cities and languages. I used this database to create an Entity Relationship Diagram that shows how tables are connected.
-
-## Organisation Type
-
-Government organisations, research institutions or businesses that manage structured data.
-
-### Why is this important?
-
-A well-designed database makes it easier to organise, retrieve and maintain accurate data.
-
-## Tools Used
-
-- MySQL Workbench
-- Entity Relationship Diagram (ERD)
 
 ## What I Did
 
