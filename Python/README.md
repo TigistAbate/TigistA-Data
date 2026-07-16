@@ -72,7 +72,8 @@ plt.show()
 - <img width="981" height="638" alt="image" src="https://github.com/user-attachments/assets/88228f7b-577a-4137-8373-d02c58611ef9" />
 
 - Bar chart displaying the average marks by gender.
-  ```python
+
+```python
 plt.figure(figsize=(10, 6))
 avg_marks_gender = df.groupby('gender')['mark'].mean().reset_index()
 sns.barplot(x='gender', y='mark', data=avg_marks_gender)
@@ -81,9 +82,7 @@ plt.xlabel('Gender')
 plt.ylabel('Average Marks')
 plt.show()
 ```
-
-
-- <img width="981" height="638" alt="image" src="https://github.com/user-attachments/assets/a09172ea-a2f8-4c12-87b3-0bcaffe665c2" />
+<img width="981" height="638" alt="image" src="https://github.com/user-attachments/assets/a09172ea-a2f8-4c12-87b3-0bcaffe665c2" />
 
 
 Each visualisation helps answer a different question about the dataset and demonstrates my ability to present data in a clear and meaningful way.
