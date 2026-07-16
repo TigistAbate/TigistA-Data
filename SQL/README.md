@@ -10,42 +10,11 @@ This section contains SQL projects using MySQL Workbench. These projects demonst
 
 In this project, I used SQL queries to explore the World database and analyse population and demographic data. I retrieved, filtered, sorted and grouped data to answer a range of business questions using MySQL Workbench.
 
-## Objective
-
-To develop SQL querying skills by retrieving and analysing data from a relational database to answer business questions.
-
-## Skills Demonstrated
-
-- SQL querying
-- Data filtering and sorting
-- Aggregate functions (`COUNT`, `AVG`)
-- `GROUP BY`
-- `ORDER BY`
-- `WHERE`
-- `LIMIT`
-- Data analysis
-- Relational database querying
-
-## Dataset
-
-**Dataset:** World Database
-
-### Description
 
 I used the World database, which contains information about countries, cities and languages, including population, life expectancy and GDP. I analysed the dataset by writing SQL queries to answer demographic and geographical questions.
 
-## Organisation Type
 
-Government department or research organisation.
 
-### Why is this important?
-
-These organisations use population and demographic data to support planning, resource allocation and informed decision-making.
-
-## Tools Used
-
-- MySQL Workbench
-- SQL
 
 ## What I Did
 
@@ -102,16 +71,7 @@ In this project, I designed an Entity Relationship Diagram (ERD) using MySQL Wor
 
 To develop an understanding of relational database design by creating an Entity Relationship Diagram that models the relationships between tables.
 
-## Skills Demonstrated
 
-- MySQL Workbench
-- Database design
-- Entity Relationship Diagrams (ERDs)
-- Relational database modelling
-- Primary keys
-- Foreign keys
-- One-to-many relationships
-- Data modelling
 
 ## Dataset
 
@@ -153,6 +113,21 @@ A well-designed database makes it easier to organise, retrieve and maintain accu
 - One-to-many relationships reduce data duplication and improve database efficiency.
 - Designing the ERD before querying the database provided a better understanding of the overall database structure.
 
-## Why This Project Belongs in My Portfolio
+## Skills Demonstrated
 
-This project demonstrates my understanding of relational database design using MySQL Workbench. It shows that I can model database structures, identify relationships between tables and understand how relational databases are organised.
+- SQL querying
+- Data filtering and sorting
+- Aggregate functions (`COUNT`, `AVG`)
+- `GROUP BY`
+- `ORDER BY`
+- `WHERE`
+- `LIMIT`
+- Data analysis
+- Relational database querying and modelling
+- MySQL Workbench
+- Database design
+- Entity Relationship Diagrams (ERDs)
+- Primary keys
+- Foreign keys
+- One-to-many relationships
+- Data modelling
