@@ -107,7 +107,7 @@ Each visualisation helps answer a different question about the dataset and demon
 
 ---
 
-# Evidence
+This notebook demonstrates the core stages of a data analysis project using Python. It includes importing datasets, cleaning and preparing data, exploring the dataset, performing basic statistical analysis, and answering business questions using the Pandas library.
 
 The following files demonstrate the work completed during this project:
 
