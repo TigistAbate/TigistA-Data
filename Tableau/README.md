@@ -1,43 +1,9 @@
 # Health GapMinder Dashboard
 
-## Overview
-
-This project was completed during my Level 3 Data Technician Skills Bootcamp using Tableau. The aim was to analyse the Health GapMinder dataset and create interactive visualisations to identify health trends and disparities across different countries and continents.
-
-## Scenario
-
+The aim for this project is to analyse the Health GapMinder dataset and create interactive visualisations to identify health trends and disparities across different countries and continents.
 As a data analyst working for a global health organisation, I analysed the Health GapMinder dataset to help identify health trends, compare countries and continents, and provide insights that could support future healthcare planning and decision-making.
 
-## Objective
 
-To create interactive Tableau visualisations that explore life expectancy, population and Body Mass Index (BMI), allowing users to identify trends and compare health data across different regions.
-
-## Skills Demonstrated
-
-- Tableau Desktop
-- Data visualisation
-- Dashboard design
-- Interactive dashboards
-- Filtering
-- Sorting
-- Colour formatting
-- Pie charts
-- Bar charts
-- Line charts
-- Scatter plots
-- Data storytelling
-
-## Dataset
-
-The Health GapMinder dataset contains approximately 6,000 records with information about countries, continents, life expectancy, Body Mass Index (BMI), population, gender and year. The dataset was used to analyse global health trends and create interactive dashboards.
-
-## Organisation Type
-
-This type of dashboard could be used by global health organisations, government agencies, healthcare providers or researchers to monitor health trends and support decision-making.
-
-## Business Value
-
-Interactive dashboards help organisations compare countries, identify health inequalities and monitor changes over time. These insights can support healthcare planning and policy decisions.
 
 ## What I Did
 
@@ -121,6 +87,17 @@ This scatter plot explores the relationship between average BMI and life expecta
 - Pie Charts
 - Scatter Plots
 
-## Why This Project Belongs in My Portfolio
+## Skills Demonstrated
 
-This project demonstrates my ability to use Tableau to create interactive dashboards that communicate complex health data clearly. It showcases my skills in data visualisation, dashboard design and presenting insights that support informed decision-making.
+- Tableau Desktop
+- Data visualisation
+- Dashboard design
+- Interactive dashboards
+- Filtering
+- Sorting
+- Colour formatting
+- Pie charts
+- Bar charts
+- Line charts
+- Scatter plots
+- Data storytelling
