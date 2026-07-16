@@ -1,37 +1,14 @@
 
 # Adventure Works Sales Dashboard
 
-## Overview
-
-This project was completed during my Level 3 Data Technician Skills Bootcamp using Microsoft Power BI Desktop. The aim was to design an interactive sales dashboard that transforms raw sales data into meaningful visualisations. The dashboard provides an overview of sales performance across different countries, product categories and financial years, allowing users to identify trends and compare business performance.
-
-## Objective
-
+The aim is to design an interactive sales dashboard that transforms raw sales data into meaningful visualisations. The dashboard provides an overview of sales performance across different countries, product categories and financial years, allowing users to identify trends and compare business performance.
 To create an interactive Power BI dashboard that enables users to analyse sales performance, compare product categories, monitor revenue trends and support business decision-making through data visualisation.
 
-## Skills Demonstrated
-
-- Microsoft Power BI Desktop
-- Data visualisation
-- Dashboard design
-- Interactive reporting
-- Data modelling
-- Power Query
-- Data transformation
-- Business intelligence
-- Report formatting
 
 ## Dataset
 
 The Adventure Works sales dataset contains information about sales transactions, product categories, countries, regions, quantities, revenue and profit. The dataset was used to build an interactive dashboard that presents sales performance through multiple charts and visualisations.
 
-## Organisation Type
-
-This type of dashboard could be used by retail companies, sales teams or business managers to monitor sales performance, identify trends and make informed business decisions.
-
-## Business Value
-
-An interactive dashboard enables organisations to monitor key performance indicators (KPIs), compare sales across different regions and product categories, and identify opportunities to improve business performance.
 
 ## What I Did
 
@@ -68,7 +45,17 @@ The completed dashboard displays multiple visualisations, allowing users to anal
 - Slicers
 - Data Modelling
 - Report Formatting
+  ## Skills Demonstrated
 
-## Why This Project Belongs in My Portfolio
+- Microsoft Power BI Desktop
+- Data visualisation
+- Dashboard design
+- Interactive reporting
+- Data modelling
+- Power Query
+- Data transformation
+- Business intelligence
+- Report formatting
 
-This project demonstrates my ability to use Microsoft Power BI to transform data into an interactive dashboard. It shows my skills in dashboard design, data visualisation and presenting business information in a clear and meaningful way.
+
+
