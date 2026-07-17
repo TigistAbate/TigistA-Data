@@ -24,7 +24,7 @@ This project analyses the Health GapMinder dataset using Tableau to explore glob
 The final Tableau dashboard brings together multiple visualisations into a single interactive report. Users can filter the data, compare countries and continents, and explore relationships between key health indicators such as life expectancy, BMI, and population distribution.
 
 <p align="center">
-<img width="3315" height="1780" alt="image" src="https://github.com/user-attachments/assets/b67f79bc-ec74-41d5-b950-40701dc9c854" /width="1000">
+  <img src="https://github.com/user-attachments/assets/b67f79bc-ec74-41d5-b950-40701dc9c854" alt="Global Health Dashboard" width="1000">
 </p>
 
 ---
