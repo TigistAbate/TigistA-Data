@@ -33,7 +33,7 @@ The final Tableau dashboard brings together multiple visualisations into a singl
 
 This visualisation compares the average life expectancy across different continents, making regional differences easy to identify.
 <p align="center">
-<img width="3185" height="1670" alt="Life Expectancy by Continent " src="https://github.com/user-attachments/assets/f9b43c9a-600c-4481-9279-96fd193a5aef" />
+  <img src="https://github.com/user-attachments/assets/f9b43c9a-600c-4481-9279-96fd193a5aef" alt="Life Expectancy by Continent" width="1000">
 </p>
 ---
 
@@ -41,7 +41,7 @@ This visualisation compares the average life expectancy across different contine
 
 This line chart shows how life expectancy has changed over time for the top five countries with the highest average life expectancy.
 <p align="center">
-<img width="3840" height="1965" alt="Life Expectancy Trend" src="https://github.com/user-attachments/assets/f425c39c-5b71-4d5c-a064-013d2f58b8c2" />
+  <img src="https://github.com/user-attachments/assets/f425c39c-5b71-4d5c-a064-013d2f58b8c2" alt="Life Expectancy Trend" width="1000">
 </p>
 ---
 
@@ -49,7 +49,7 @@ This line chart shows how life expectancy has changed over time for the top five
 
 This pie chart compares the male and female population for a selected country and year.
 <p align="center">
-<img width="3835" height="2005" alt="Population_by_gender" src="https://github.com/user-attachments/assets/1bceb97f-5c43-4ae0-b4e2-4b369b4ea5ab" />
+  <img src="https://github.com/user-attachments/assets/1bceb97f-5c43-4ae0-b4e2-4b369b4ea5ab" alt="Population Distribution by Gender" width="1000">
 </p>
 ---
 
@@ -57,16 +57,15 @@ This pie chart compares the male and female population for a selected country an
 
 This chart compares the average BMI across different countries, helping identify variations in population health.
 <p align="center">
-<img width="3832" height="1950" alt="Average BMI by Country" src="https://github.com/user-attachments/assets/4e87497d-e382-4d86-9933-680a44958d91" />
+  <img src="https://github.com/user-attachments/assets/4e87497d-e382-4d86-9933-680a44958d91" alt="Average BMI by Country" width="1000">
 </p>
-
 ---
 
 ### Life Expectancy vs BMI
 
 This scatter plot explores the relationship between average BMI and life expectancy across countries.
 <p align="center">
-<img width="3840" height="1995" alt="life_expectancy_vs_bmi" src="https://github.com/user-attachments/assets/1cb1560e-c547-40ca-94d4-73df7e97047e" />
+  <img src="https://github.com/user-attachments/assets/1cb1560e-c547-40ca-94d4-73df7e97047e" alt="Life Expectancy vs BMI" width="1000">
 </p>
 
 ## Key Findings
