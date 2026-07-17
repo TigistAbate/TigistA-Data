@@ -1,5 +1,7 @@
 # Data Analysis Portfolio
-<img width="1774" height="887" alt="ChatGPT Image Jul 17, 2026, 08_14_19 AM" src="https://github.com/user-attachments/assets/e03574aa-01de-4035-8162-c27ee5088d42"  width="80%">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e03574aa-01de-4035-8162-c27ee5088d42" alt="Portfolio Banner" width="80%">
+</p>
 
 # Hi, I'm Tigist  👋
 
