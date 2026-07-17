@@ -1,3 +1,6 @@
+# Data Analysis Portfolio
+<img width="1774" height="887" alt="ChatGPT Image Jul 17, 2026, 08_14_19 AM" src="https://github.com/user-attachments/assets/e03574aa-01de-4035-8162-c27ee5088d42" />
+
 # Hi, I'm Tigist  👋
 
 Welcome to my Data Analytics portfolio! This repository contains a collection of projects completed during my Level 3 Data Technician Skills Bootcamp, showcasing my skills. Each project demonstrates how I applied data analysis and visualisation techniques to solve real-world business scenarios.
