@@ -27,7 +27,9 @@ The Adventure Works sales dataset contains information about sales transactions,
 
 The completed dashboard displays multiple visualisations, allowing users to analyse sales performance across different product categories, countries and financial years.
 
-<img width="2575" height="1250" alt="sales-dashboard" src="https://github.com/user-attachments/assets/7a33f900-1db5-4bb7-bbf0-90471e0550b5" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a33f900-1db5-4bb7-bbf0-90471e0550b5" alt="Sales Dashboard" width="1000">
+</p>
 
 
 ## Key Findings
