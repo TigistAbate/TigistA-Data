@@ -1,27 +1,28 @@
 # Health GapMinder Dashboard
 
-The aim for this project is to analyse the Health GapMinder dataset and create interactive visualisations to identify health trends and disparities across different countries and continents.
-As a data analyst working for a global health organisation, I analysed the Health GapMinder dataset to help identify health trends, compare countries and continents, and provide insights that could support future healthcare planning and decision-making.
+## Project Overview
+
+This project analyses the Health GapMinder dataset using Tableau to explore global health trends and disparities across countries and continents. I designed the dashboard to provide interactive insights into life expectancy, population distribution, and BMI, helping users compare regions and identify patterns that could support data-driven healthcare planning and decision-making.
 
 
+## Project Tasks
 
-## What I Did
-
-- Connected the Health GapMinder dataset to Tableau.
-- Checked the dataset and verified the data types.
-- Created a bar chart showing average life expectancy by continent.
-- Created a line chart showing life expectancy trends for the top five countries.
-- Created a pie chart showing population distribution by gender.
-- Created additional visualisations to compare average BMI by country and explore the relationship between BMI and life expectancy.
-- Applied filters, colours and formatting to improve the visualisations.
-- Combined the worksheets into an interactive dashboard.
-- Reviewed the dashboard to ensure all visualisations displayed the correct information.
+- Imported the Health GapMinder dataset into Tableau.
+- Reviewed the dataset and validated the data types.
+- Created a bar chart to compare average life expectancy by continent.
+- Developed a line chart to show life expectancy trends over time.
+- Built a pie chart to display population distribution by gender.
+- Created a scatter plot to examine the relationship between BMI and life expectancy.
+- Designed a bar chart comparing average BMI across countries.
+- Added interactive filters to improve dashboard usability.
+- Combined all visualisations into a single interactive dashboard.
+- Tested and refined the dashboard to ensure accuracy and usability.
 
 ## Dashboard Visualisations
 
 ### Dashboard
+The final Tableau dashboard brings together multiple visualisations into a single interactive report. Users can filter the data, compare countries and continents, and explore relationships between key health indicators such as life expectancy, BMI, and population distribution.
 
-The completed dashboard combines several visualisations into one interactive report, allowing users to explore different aspects of the dataset.
 <p align="center">
 <img width="3315" height="1780" alt="image" src="https://github.com/user-attachments/assets/b67f79bc-ec74-41d5-b950-40701dc9c854" /width="1000">
 </p>
@@ -70,35 +71,31 @@ This scatter plot explores the relationship between average BMI and life expecta
 
 ## Key Findings
 
-- Average life expectancy varies across continents, highlighting regional differences in health outcomes.
-- Some countries consistently record higher life expectancy than others over time.
-- Population distribution differs between genders depending on the selected country.
-- BMI varies across countries and may show patterns when compared with life expectancy.
-- Interactive dashboards make it easier to explore data, identify trends and support evidence-based decision-making.
-
-## Tools Used
+- Europe recorded the highest average life expectancy, while Africa had the lowest.
+- Life expectancy generally increased over time across the selected countries.
+- Population distribution between males and females varied depending on the selected country.
+- Countries with higher life expectancy often showed higher average BMI, although the relationship was not consistent across all regions.
+- Interactive dashboards enable users to explore health data efficiently and support evidence-based decision-making.
+## Tools & Technologies
 
 - Tableau Desktop
+- Health GapMinder Dataset
 - Interactive Dashboards
 - Filters
-- Sorting
-- Colour Formatting
 - Bar Charts
 - Line Charts
 - Pie Charts
 - Scatter Plots
+- Dashboard Actions
 
 ## Skills Demonstrated
 
-- Tableau Desktop
 - Data visualisation
-- Dashboard design
-- Interactive dashboards
-- Filtering
-- Sorting
-- Colour formatting
-- Pie charts
-- Bar charts
-- Line charts
-- Scatter plots
+- Dashboard development
+- Interactive dashboard design
 - Data storytelling
+- Trend analysis
+- Comparative analysis
+- Data filtering
+- Dashboard formatting
+- Business insight generation
