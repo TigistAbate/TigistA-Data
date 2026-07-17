@@ -23,7 +23,8 @@ As a data analyst working for a global health organisation, I analysed the Healt
 
 The completed dashboard combines several visualisations into one interactive report, allowing users to explore different aspects of the dataset.
 
-<img width="1472" height="777" alt="Dashboard" src="https://github.com/user-attachments/assets/6fd4f105-e9a1-491a-bb22-66d7c2820c26" />
+<img width="3315" height="1780" alt="image" src="https://github.com/user-attachments/assets/b67f79bc-ec74-41d5-b950-40701dc9c854" />
+
 
 ---
 
