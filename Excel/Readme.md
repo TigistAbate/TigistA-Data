@@ -2,47 +2,36 @@
 
 ---
 
-# Project 1: Sales Performance Analysis
-
+# Project 1: Retail Sales Analysis
 ## Overview
 
-In this project, I analysed a retail sales dataset by creating a PivotTable to summarise sales by county and product and using the Excel SWITCH function to categorise products based on sales volume.
+Using Microsoft Excel, I analysed a retail sales dataset to explore sales trends, customer purchasing behaviour, and product performance. I cleaned and organised the data, created PivotTables and PivotCharts, and built an interactive dashboard to present key insights that support data-driven decision-making.
 
-To summarise sales data, categorise sales performance, and present meaningful business insights using Microsoft Excel.
+## Data Preparation
 
-This dataset contains product sales across different counties in England. It was used to summarise sales by county and product and categorise sales volumes into High, Medium and Low.
+I imported the retail sales dataset into Microsoft Excel and converted it into an Excel Table using Ctrl + T. This organised the data into a structured format, making it easier to work with in the following stages of the analysis.
 
+<p align="center">
+  <img width="2335" height="1562" alt="image" src="https://github.com/user-attachments/assets/26ef6890-bcb0-4dea-953b-2121c29e5646" />
+</p>
+I used the Sort & Filter feature in Microsoft Excel to sort the Age column from Largest to Smallest. Sorting the data made it easier to view customer records by age and prepare the dataset for further analysis.
+<img width="2300" height="645" alt="image" src="https://github.com/user-attachments/assets/52fde880-dca6-49e7-be7b-474b9a7237cd" />
+I used the SUM function to calculate the total sales by adding all the sales values in the Sales column. This provided the overall sales total, which was then used as part of the summary calculations.
+I used the IFS function to categorise customers into three age groups: Senior, Adult, and Young Adult, based on their age. This made it easier to analyse and compare sales patterns across different customer age groups. 
+Customer Category:
+=IFS(E2>=50,"Senior",E2>=30,"Adult",E2<30,"Young Adult")
+<img width="2687" height="595" alt="image" src="https://github.com/user-attachments/assets/eec70824-1eee-4ae7-b66e-ef425c042427" />
 
-## What I Did
+I created a Commission Amount column by multiplying each customer's Total Sales by the fixed 1.5% commission rate stored in cell P8. I used an absolute cell reference ($P$8) so that the commission rate remained fixed when copying the formula down the column.
+<img width="3727" height="912" alt="image" src="https://github.com/user-attachments/assets/870ecc73-563d-49a5-9bb6-8ff8de18b37f" />
 
-- Cleaned the dataset by removing hidden spaces.
-- Converted the Sales Volume column into a numerical data type.
-- Created a PivotTable to summarise sales by county and product.
-- Used the SWITCH function to categorise sales as High, Medium or Low.
-- Checked the results to ensure calculations were accurate.
+The summary box displays the commission rate, total commission, and average commission. These calculations provide a quick overview of commission costs and help compare the average commission earned per sale for the selected group of customers.
 
-## Evidence
+### PivotTable: Total Sales by Product Category and Gender
 
-### Original Dataset
+I created a PivotTable to summarise Total Sales by Product Category and Gender. This allowed me to compare sales performance across different product categories while identifying spending patterns between male and female customers. The PivotTable provides a clear summary of the data and highlights which categories generated the highest revenue.
 
-<img width="1715" height="1055" alt="Dataset_with_SWITCH" src="https://github.com/user-attachments/assets/fdeb69f3-e874-4929-9a5f-c81b0bbb27a3" />
-
-
-### Pivot Table
-<img width="1285" height="872" alt="pivot_table_sales_summary" src="https://github.com/user-attachments/assets/7621f711-a403-42cf-8fa5-5bdad880ed46" />
-
-
-
-### SWITCH Function
-
-<img width="1472" height="656" alt="switch_function_sales_category" src="https://github.com/user-attachments/assets/5e9e5f22-223c-476c-abe8-a81c864df43d" />
-
-## Key Findings
-
-- The PivotTable made it easy to compare sales across counties and products.
-- Laptops and printers recorded higher sales volumes than some other products.
-- The SWITCH function quickly identified High, Medium and Low sales categories.
-- Cleaning the data ensured accurate PivotTable calculations.
+<img width="1007" height="797" alt="image" src="https://github.com/user-attachments/assets/9ddb43f7-d3d2-4fec-9af6-3fac3dd719e1" />
 
 
 ---
