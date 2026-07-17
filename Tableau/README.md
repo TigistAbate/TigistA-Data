@@ -22,51 +22,51 @@ As a data analyst working for a global health organisation, I analysed the Healt
 ### Dashboard
 
 The completed dashboard combines several visualisations into one interactive report, allowing users to explore different aspects of the dataset.
-
+<p align="center">
 <img width="3315" height="1780" alt="image" src="https://github.com/user-attachments/assets/b67f79bc-ec74-41d5-b950-40701dc9c854" />
-
+</p>
 
 ---
 
 ### Life Expectancy by Continent
 
 This visualisation compares the average life expectancy across different continents, making regional differences easy to identify.
-
+<p align="center">
 <img width="3185" height="1670" alt="Life Expectancy by Continent " src="https://github.com/user-attachments/assets/f9b43c9a-600c-4481-9279-96fd193a5aef" />
-
+</p>
 ---
 
 ### Life Expectancy Trend
 
 This line chart shows how life expectancy has changed over time for the top five countries with the highest average life expectancy.
-
+<p align="center">
 <img width="3840" height="1965" alt="Life Expectancy Trend" src="https://github.com/user-attachments/assets/f425c39c-5b71-4d5c-a064-013d2f58b8c2" />
-
+</p>
 ---
 
 ### Population Distribution by Gender
 
 This pie chart compares the male and female population for a selected country and year.
-
+<p align="center">
 <img width="3835" height="2005" alt="Population_by_gender" src="https://github.com/user-attachments/assets/1bceb97f-5c43-4ae0-b4e2-4b369b4ea5ab" />
-
+</p>
 ---
 
 ### Average BMI by Country
 
 This chart compares the average BMI across different countries, helping identify variations in population health.
-
+<p align="center">
 <img width="3832" height="1950" alt="Average BMI by Country" src="https://github.com/user-attachments/assets/4e87497d-e382-4d86-9933-680a44958d91" />
-
+</p>
 
 ---
 
 ### Life Expectancy vs BMI
 
 This scatter plot explores the relationship between average BMI and life expectancy across countries.
-
+<p align="center">
 <img width="3840" height="1995" alt="life_expectancy_vs_bmi" src="https://github.com/user-attachments/assets/1cb1560e-c547-40ca-94d4-73df7e97047e" />
-
+</p>
 
 ## Key Findings
 
