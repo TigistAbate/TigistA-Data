@@ -1,22 +1,17 @@
 # Python Projects
 
 ## Student Marks Data Analysis and Visualisation
-
+This project demonstrates how Python can be used to analyse and visualise student performance data. Using a dataset containing student marks, I performed exploratory data analysis (EDA), generated descriptive statistics, and created a range of visualisations to identify trends and compare student performance across classes and genders
 # What I Did
-
-During this project I:
-
 - Imported the dataset into Google Colab.
-- Loaded the data into a Pandas DataFrame.
+- Loaded the data using Pandas.
 - Explored the dataset to understand its structure.
-- Checked the data for missing values.
+- Checked for missing values and verified data quality.
 - Generated descriptive statistics.
-- Created multiple visualisations using Matplotlib and Seaborn.
-- Compared student marks across different classes.
+- Created visualisations using Matplotlib and Seaborn.
+- Compared student performance across different classes.
 - Analysed marks by gender.
-- Interpreted the results of each visualisation.
-
----
+- Interpreted the findings from each visualisation.
 
 # Visualisations Created
 I used the student.csv dataset to create various charts with Matplotlib and Seaborn, illustrating mark distributions, class sizes, and student performance by gender.
@@ -90,33 +85,31 @@ Each visualisation helps answer a different question about the dataset and demon
 ---
 
 # Key Findings
-
-1 Most students achieved marks between approximately 70 and 90, showing generally good overall performance.
-
-**What this means Teachers can quickly identify the overall performance level of students and recognise whether results are concentrated within a particular range.
-
----
- 2 Student performance varies across different classes, with some classes achieving higher average marks than others.
-
-**What this means  Schools can investigate differences between classes to understand factors affecting student achievement and provide additional support where required.
-
----
-3 The visualisations also compare average marks by gender, making it easier to identify similarities and differences in student performance.
-
-*What this means Educational organisations can use this information to monitor equality of outcomes and ensure all students receive appropriate support.
+- Most students achieved marks between 70 and 90, indicating generally strong overall performance.
+- Student performance varied between classes, suggesting that some groups achieved higher results than others.
+- Average marks were compared by gender, making it easier to identify similarities and differences in performance.
+- Visualisations made the dataset easier to interpret and supported data-driven decision-making.
 
 ---
 
-This notebook demonstrates the core stages of a data analysis project using Python. It includes importing datasets, cleaning and preparing data, exploring the dataset, performing basic statistical analysis, and answering business questions using the Pandas library.
+## Project Files
 
-The following files demonstrate the work completed during this project:
+This project is organised into two Jupyter notebooks that demonstrate the complete data analysis workflow using Python. The notebooks cover data loading, cleaning, exploratory data analysis (EDA), descriptive statistics, and data visualisation.
 
-- Python_project_1.ipynb
-- https://colab.research.google.com/drive/1IKe2b5X9UOWP72AW84ZMno2Uhq8a11Ek#scrollTo=5yfvPk1I-g2M
-- Python_Visualization.ipynb
-- https://colab.research.google.com/drive/12HdO4dzpy9JFQYoSTpl809MSiKgM7tk1#scrollTo=zjJ6icySFcQr
+### Notebooks
 
-These notebooks include the Python code, analysis and visualisations produced during the Bootcamp.
+- **Python_project_1.ipynb** – Demonstrates data loading, cleaning, exploratory data analysis (EDA), and descriptive statistics using the Pandas library.
+- **Python_Visualization.ipynb** – Demonstrates data visualisation using Matplotlib and Seaborn to explore patterns and trends within the dataset.
+
+### Google Colab Notebooks
+
+- **Python Project 1:**  
+  [Python Project 1 Notebook](https://colab.research.google.com/drive/1IKe2b5X9UOWP72AW84ZMno2Uhq8a11Ek)
+
+- **Python Visualisation:**  
+  [Python Visualisation Notebook](https://colab.research.google.com/drive/12HdO4dzpy9JFQYoSTpl809MSiKgM7tk1)
+
+These notebooks include the Python code, analysis, and visualisations completed as part of the Data Technician Skills Bootcamp.
 
 ---
 
@@ -132,4 +125,10 @@ These notebooks include the Python code, analysis and visualisations produced du
 - Seaborn
 - Google Colab
 - Interpreting data
+#  Tools & Technologies
+Python
+Google Colab
+Pandas
+Matplotlib
+Seaborn
 
