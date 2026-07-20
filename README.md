@@ -1,6 +1,5 @@
-# Data Analysis Portfolio
+<img width="1983" height="793" alt="My B" src="https://github.com/user-attachments/assets/abd05a35-fce2-43b5-8f87-b24fc527741a" />
 
-  <img src="https://github.com/user-attachments/assets/e03574aa-01de-4035-8162-c27ee5088d42" alt="Portfolio Banner" width="80%">
 
 
 # Hi, I'm Tigist  👋
