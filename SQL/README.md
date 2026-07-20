@@ -9,7 +9,7 @@ In this project, I used SQL queries in MySQL Workbench to explore and analyse th
 
 
 
-### Count Cities in the USA
+### Q1 Count Cities in the USA
 <br>
 I wrote a SQL query to count the total number of cities in the United States. I used the COUNT(*) function to count all records where the CountryCode is 'USA' and assigned the result the alias Cities_in_USA.
 <br>
@@ -20,7 +20,8 @@ I wrote a SQL query to count the total number of cities in the United States. I 
 The query returned 274, showing that there are 274 cities in the World database with the country code USA.
 <br>
 <br>
-### Country with the Highest Life Expectancy
+
+### Q2.Country with the Highest Life Expectancy
 <br>
 I wrote a SQL query to retrieve the country with the highest life expectancy. I selected the Name and LifeExpectancy columns, sorted the results in descending order using ORDER BY, and used LIMIT 1 to return only the highest result.
 <br>
@@ -31,7 +32,10 @@ I wrote a SQL query to retrieve the country with the highest life expectancy. I 
 <br>
 The query showed that Andorra has the highest life expectancy in the dataset, with a life expectancy of 83.5 years.
 <br>
-### Cities Containing "New"
+
+### Q3 Cities Containing "New"
+
+<br>
 I wrote a SQL query to search for city names containing the word "New". I used the LIKE operator with the wildcard % to find all cities whose names include "New".
 <br>
 <br>
@@ -41,7 +45,8 @@ I wrote a SQL query to search for city names containing the word "New". I used t
 The query returned all cities containing "New" in their names, such as New Delhi, New York, New Orleans, Newcastle, and New Haven. This demonstrated how the LIKE operator can be used to search for partial text matches in a database.
 <br>
 <br>
-### Top 10 Most Populated Cities
+
+### Q4 Top 10 Most Populated Cities
 <br>
 I wrote a SQL query to retrieve the top 10 most populated cities from the city table. I selected the Name and Population columns, sorted the results in descending order using ORDER BY Population DESC, and used LIMIT 10 to display only the ten largest cities.
 <br>
