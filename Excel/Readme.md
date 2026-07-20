@@ -12,7 +12,7 @@ Using Microsoft Excel, I analysed a retail sales dataset to explore sales trends
 I imported the retail sales dataset into Microsoft Excel and converted it into an Excel Table using Ctrl + T. This organised the data into a structured format, making it easier to work with in the following stages of the analysis.
 
 <p align="center">
-  <img width="2335" height="1562" alt="image" src="https://github.com/user-attachments/assets/26ef6890-bcb0-4dea-953b-2121c29e5646" />
+  <img src="https://github.com/user-attachments/assets/26ef6890-bcb0-4dea-953b-2121c29e5646" alt="Imported dataset" width="1000">
 </p>
 I used the Sort & Filter feature in Microsoft Excel to sort the Age column from Largest to Smallest. Sorting the data made it easier to view customer records by age and prepare the dataset for further analysis.
 <img width="2300" height="645" alt="image" src="https://github.com/user-attachments/assets/52fde880-dca6-49e7-be7b-474b9a7237cd" />
@@ -30,8 +30,8 @@ The summary box displays the commission rate, total commission, and average comm
 ### PivotTable: Total Sales by Product Category and Gender
 
 I created a PivotTable to summarise Total Sales by Product Category and Gender. This allowed me to compare sales performance across different product categories while identifying spending patterns between male and female customers. The PivotTable provides a clear summary of the data and highlights which categories generated the highest revenue.
+<img width="2220" height="785" alt="image" src="https://github.com/user-attachments/assets/3e76108a-4ac8-4396-84a5-b6ffec8b91e5" />
 
-<img width="1007" height="797" alt="image" src="https://github.com/user-attachments/assets/9ddb43f7-d3d2-4fec-9af6-3fac3dd719e1" />
 
 
 ---
