@@ -20,18 +20,21 @@ I used the SUM function to calculate the total sales by adding all the sales val
 I used the IFS function to categorise customers into three age groups: Senior, Adult, and Young Adult, based on their age. This made it easier to analyse and compare sales patterns across different customer age groups. 
 Customer Category:
 =IFS(E2>=50,"Senior",E2>=30,"Adult",E2<30,"Young Adult")
+  <p align="center">
 <img width="2687" height="595" alt="image" src="https://github.com/user-attachments/assets/eec70824-1eee-4ae7-b66e-ef425c042427" />
-
+</p>
 I created a Commission Amount column by multiplying each customer's Total Sales by the fixed 1.5% commission rate stored in cell P8. I used an absolute cell reference ($P$8) so that the commission rate remained fixed when copying the formula down the column.
+   <p align="center">
 <img width="3727" height="912" alt="image" src="https://github.com/user-attachments/assets/870ecc73-563d-49a5-9bb6-8ff8de18b37f" />
-
+</p>
 The summary box displays the commission rate, total commission, and average commission. These calculations provide a quick overview of commission costs and help compare the average commission earned per sale for the selected group of customers.
 
 ### PivotTable: Total Sales by Product Category and Gender
 
 I created a PivotTable to summarise Total Sales by Product Category and Gender. This allowed me to compare sales performance across different product categories while identifying spending patterns between male and female customers. The PivotTable provides a clear summary of the data and highlights which categories generated the highest revenue. . I paired this with a clustered column chart to make the comparison clearer. Showing the data as percentages makes it easier to compare group behaviour fairly.
+ <p align="center">
 <img width="2220" height="785" alt="image" src="https://github.com/user-attachments/assets/3e76108a-4ac8-4396-84a5-b6ffec8b91e5" />
-
+</p>
 
 
 ---
@@ -57,12 +60,11 @@ The dataset contains student names and marks in English, Mathematics and Science
 ## Evidence
 
 ### Original Dataset
-
+  <p align="center">
 <img width="1505" height="525" alt="student_dataset" src="https://github.com/user-attachments/assets/187dd777-3f62-48be-977a-efd8ba1b27dc" />
 
 ### Student Performance After Sorting and Filtering
 <img width="1234" height="557" alt="Sorted and filtered Data set" src="https://github.com/user-attachments/assets/9f894c9b-b132-434c-b542-6a3456e22752" />
-
 
 
 ### Average Marks
