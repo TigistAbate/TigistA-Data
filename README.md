@@ -1,7 +1,7 @@
 # Data Analysis Portfolio
-<p align="center">
+
   <img src="https://github.com/user-attachments/assets/e03574aa-01de-4035-8162-c27ee5088d42" alt="Portfolio Banner" width="80%">
-</p>
+
 
 # Hi, I'm Tigist  👋
 
