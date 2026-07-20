@@ -29,7 +29,7 @@ The summary box displays the commission rate, total commission, and average comm
 
 ### PivotTable: Total Sales by Product Category and Gender
 
-I created a PivotTable to summarise Total Sales by Product Category and Gender. This allowed me to compare sales performance across different product categories while identifying spending patterns between male and female customers. The PivotTable provides a clear summary of the data and highlights which categories generated the highest revenue.
+I created a PivotTable to summarise Total Sales by Product Category and Gender. This allowed me to compare sales performance across different product categories while identifying spending patterns between male and female customers. The PivotTable provides a clear summary of the data and highlights which categories generated the highest revenue. . I paired this with a clustered column chart to make the comparison clearer. Showing the data as percentages makes it easier to compare group behaviour fairly.
 <img width="2220" height="785" alt="image" src="https://github.com/user-attachments/assets/3e76108a-4ac8-4396-84a5-b6ffec8b91e5" />
 
 
