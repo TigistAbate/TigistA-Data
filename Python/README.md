@@ -2,16 +2,6 @@
 
 ## Student Marks Data Analysis and Visualisation
 This project demonstrates how Python can be used to analyse and visualise student performance data. Using a dataset containing student marks, I performed exploratory data analysis (EDA), generated descriptive statistics, and created a range of visualisations to identify trends and compare student performance across classes and genders
-# What I Did
-- Imported the dataset into Google Colab.
-- Loaded the data using Pandas.
-- Explored the dataset to understand its structure.
-- Checked for missing values and verified data quality.
-- Generated descriptive statistics.
-- Created visualisations using Matplotlib and Seaborn.
-- Compared student performance across different classes.
-- Analysed marks by gender.
-- Interpreted the findings from each visualisation.
 
 # Visualisations Created
 I used the student.csv dataset to create various charts with Matplotlib and Seaborn, illustrating mark distributions, class sizes, and student performance by gender.
@@ -28,6 +18,8 @@ plt.show()
 
 
 - <img width="981" height="638" alt="image" src="https://github.com/user-attachments/assets/66bd5751-5c9a-4f44-9859-2b512387d36f" />
+I created a histogram using Matplotlib to visualise the distribution of student marks. I divided the marks into 10 intervals (bins) to show how frequently scores occurred across different ranges.
+The histogram made it easy to identify the overall distribution of marks, showing where most students' scores were concentrated and highlighting any patterns or variations in the data.
 
 - Scatter plot comparing marks by gender.
 ```python
@@ -41,6 +33,8 @@ plt.show()
 ```
 
 - <img width="981" height="638" alt="image" src="https://github.com/user-attachments/assets/924b7db9-48d7-47bb-bb46-a952298f5bf8" />
+I created a scatter plot using Matplotlib to compare student marks by gender. I first converted the gender column to a string data type and then plotted gender on the x-axis and marks on the y-axis.
+The scatter plot made it easy to compare the distribution of marks between male and female students and identify any differences or patterns in their performance.
 
 - Box plot showing marks by class.
 ```python
@@ -53,6 +47,8 @@ plt.show()
 ```
 
 - <img width="981" height="638" alt="image" src="https://github.com/user-attachments/assets/cb459edb-e904-45b0-935a-b460f4b17f07" />
+I created a box plot to compare the distribution of student marks across different classes. I plotted class on the x-axis and marks on the y-axis to visualise the spread of marks for each class.
+The box plot made it easy to compare the distribution of marks between classes, showing the median, spread of scores, and any potential outliers. It helped identify differences in student performance across the classes.
 
 - Count plot showing the number of students in each class.
 ```python
@@ -65,6 +61,8 @@ plt.show()
 ```
 
 - <img width="981" height="638" alt="image" src="https://github.com/user-attachments/assets/88228f7b-577a-4137-8373-d02c58611ef9" />
+I created a count plot using Seaborn to display the number of students in each class. I plotted the class column on the x-axis and the count of students on the y-axis.
+The count plot showed the number of students in each class, making it easy to compare class sizes and identify which classes had the highest and lowest number of students.
 
 - Bar chart displaying the average marks by gender.
 
@@ -79,28 +77,13 @@ plt.show()
 ```
 <img width="981" height="638" alt="image" src="https://github.com/user-attachments/assets/a09172ea-a2f8-4c12-87b3-0bcaffe665c2" />
 
-
-Each visualisation helps answer a different question about the dataset and demonstrates my ability to present data in a clear and meaningful way.
-
----
-
-# Key Findings
-- Most students achieved marks between 70 and 90, indicating generally strong overall performance.
-- Student performance varied between classes, suggesting that some groups achieved higher results than others.
-- Average marks were compared by gender, making it easier to identify similarities and differences in performance.
-- Visualisations made the dataset easier to interpret and supported data-driven decision-making.
+I grouped the data by gender and calculated the average student marks using the mean() function. I then created a bar chart with Seaborn to compare the average marks for each gender.
+The bar chart clearly compared the average marks between male and female students, making it easy to identify any differences in their overall academic performance.
 
 ---
 
-## Project Files
 
-This project is organised into two Jupyter notebooks that demonstrate the complete data analysis workflow using Python. The notebooks cover data loading, cleaning, exploratory data analysis (EDA), descriptive statistics, and data visualisation.
-
-### Notebooks
-
-- **Python_project_1.ipynb** – Demonstrates data loading, cleaning, exploratory data analysis (EDA), and descriptive statistics using the Pandas library.
-- **Python_Visualization.ipynb** – Demonstrates data visualisation using Matplotlib and Seaborn to explore patterns and trends within the dataset.
-
+-
 ### Google Colab Notebooks
 
 - **Python Project 1:**  
