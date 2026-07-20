@@ -15,25 +15,28 @@ I imported the retail sales dataset into Microsoft Excel and converted it into a
   <img src="https://github.com/user-attachments/assets/26ef6890-bcb0-4dea-953b-2121c29e5646" alt="Imported dataset" width="1000">
 </p>
 I used the Sort & Filter feature in Microsoft Excel to sort the Age column from Largest to Smallest. Sorting the data made it easier to view customer records by age and prepare the dataset for further analysis.
-<img width="2300" height="645" alt="image" src="https://github.com/user-attachments/assets/52fde880-dca6-49e7-be7b-474b9a7237cd" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/52fde880-dca6-49e7-be7b-474b9a7237cd" alt="Project Screenshot" width="800">
+</p>
 I used the SUM function to calculate the total sales by adding all the sales values in the Sales column. This provided the overall sales total, which was then used as part of the summary calculations.
 I used the IFS function to categorise customers into three age groups: Senior, Adult, and Young Adult, based on their age. This made it easier to analyse and compare sales patterns across different customer age groups. 
 Customer Category:
 =IFS(E2>=50,"Senior",E2>=30,"Adult",E2<30,"Young Adult")
-  <p align="center">
-<img width="2687" height="595" alt="image" src="https://github.com/user-attachments/assets/eec70824-1eee-4ae7-b66e-ef425c042427" />
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/eec70824-1eee-4ae7-b66e-ef425c042427" alt="Project Screenshot" width="800">
 </p>
 I created a Commission Amount column by multiplying each customer's Total Sales by the fixed 1.5% commission rate stored in cell P8. I used an absolute cell reference ($P$8) so that the commission rate remained fixed when copying the formula down the column.
-   <p align="center">
-<img width="3727" height="912" alt="image" src="https://github.com/user-attachments/assets/870ecc73-563d-49a5-9bb6-8ff8de18b37f" />
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/870ecc73-563d-49a5-9bb6-8ff8de18b37f" alt="Project Screenshot" width="800">
 </p>
 The summary box displays the commission rate, total commission, and average commission. These calculations provide a quick overview of commission costs and help compare the average commission earned per sale for the selected group of customers.
 
 ### PivotTable: Total Sales by Product Category and Gender
 
 I created a PivotTable to summarise Total Sales by Product Category and Gender. This allowed me to compare sales performance across different product categories while identifying spending patterns between male and female customers. The PivotTable provides a clear summary of the data and highlights which categories generated the highest revenue. . I paired this with a clustered column chart to make the comparison clearer. Showing the data as percentages makes it easier to compare group behaviour fairly.
- <p align="center">
-<img width="2220" height="785" alt="image" src="https://github.com/user-attachments/assets/3e76108a-4ac8-4396-84a5-b6ffec8b91e5" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e76108a-4ac8-4396-84a5-b6ffec8b91e5" alt="Project Screenshot" width="800">
 </p>
 
 
