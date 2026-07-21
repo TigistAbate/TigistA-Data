@@ -78,6 +78,11 @@ This scatter plot explores the relationship between average BMI and life expecta
 
 ### Explore my interactive Tableau dashboard:
  [Live Dashboard](https://public.tableau.com/app/profile/tigist.abate/viz/BookAssignemnt2/GlobalHealthDashboard?publish=yes)
+### 🎵 Spotify Music Trends Analysis Dashboard
+
+Explore my interactive Tableau dashboard:
+
+🔗 **Dashboard:** [Spotify Music Trends Analysis Dashboard](https://public.tableau.com/app/profile/tigist.abate/viz/Book1_17808553111830/SpotifyMusicTrendsAnalysisDashboard1)
 ## Tools & Technologies
 
 - Tableau Desktop
