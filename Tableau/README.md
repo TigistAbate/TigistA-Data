@@ -75,6 +75,9 @@ This scatter plot explores the relationship between average BMI and life expecta
 - Population distribution between males and females varied depending on the selected country.
 - Countries with higher life expectancy often showed higher average BMI, although the relationship was not consistent across all regions.
 - Interactive dashboards enable users to explore health data efficiently and support evidence-based decision-making.
+
+### Explore my interactive Tableau dashboard:
+ [Live Dashboard](https://public.tableau.com/app/profile/tigist.abate/viz/BookAssignemnt2/GlobalHealthDashboard?publish=yes)
 ## Tools & Technologies
 
 - Tableau Desktop
