@@ -69,11 +69,14 @@ The query returned the top 10 cities with the highest populations, including Mum
 
 
 
-In this project, I started by writing SQL queries to explore and analyse the World database. I then designed an Entity Relationship Diagram (ERD) in MySQL Workbench to understand how the tables are connected. I identified the primary and foreign keys, modelled one-to-many relationships, and reviewed the ERD to ensure the relationships were accurate.
+In this project, I designed an Entity Relationship Diagram (ERD) in MySQL Workbench to understand how the tables are connected. I identified the primary and foreign keys, modelled one-to-many relationships, and reviewed the ERD to ensure the relationships were accurate.
 
 
 
-<img width="3835" height="2060" alt="world-database-erd" src="https://github.com/user-attachments/assets/0eb35696-5855-4b60-8e00-7995c460bb93" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0eb35696-5855-4b60-8e00-7995c460bb93" alt="World Database ERD" width="1000">
+</p>
+
 
 
 The completed ERD provides a clear visual representation of the relationships between the tables in the World database. It shows how primary and foreign keys connect the tables and demonstrates the one-to-many relationships, making it easier to understand the database structure before writing SQL queries.
