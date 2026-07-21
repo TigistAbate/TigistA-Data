@@ -26,7 +26,14 @@ Customer Category:
  <p align="center">
   <img src="https://github.com/user-attachments/assets/eec70824-1eee-4ae7-b66e-ef425c042427" alt="Project Screenshot" width="800">
 </p>
-I created a Commission Amount column by multiplying each customer's Total Sales by the fixed 1.5% commission rate stored in cell P8. I used an absolute cell reference ($P$8) so that the commission rate remained fixed when copying the formula down the column.
+
+  I calculated the commission amount for each sale by multiplying the Total Sales value by a 1.50% commission rate using an absolute cell reference N8. I then calculated the total and average commission earned across all sales.
+  
+-To calculate the Commission Amount for each sale, multiply the Total Sales by the Commission Rate.=I2*$N$8
+-To calculate the total commission earned =SUM(K:K)
+-To calculate the average commission per sale:
+  =AVERAGE(K:K )
+  
   <p align="center">
   <img src="https://github.com/user-attachments/assets/870ecc73-563d-49a5-9bb6-8ff8de18b37f" alt="Project Screenshot" width="800">
 </p>
