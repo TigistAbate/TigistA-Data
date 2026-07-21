@@ -5,7 +5,7 @@
 # Project 1: Retail Sales Analysis
 ## Overview
 
-Using Microsoft Excel, I analysed a retail sales dataset to explore sales trends, customer purchasing behaviour, and product performance. I cleaned and organised the data, created PivotTables and PivotCharts, and built an interactive dashboard to present key insights that support data-driven decision-making.
+Using Microsoft Excel, I analysed a retail sales dataset to explore sales trends, customer purchasing behaviour, and product performance. I cleaned and organised the data, created PivotTables and PivotCharts, and used data visualisations to present key insights that support data-driven decision-making.
 
 ## Data Preparation
 
