@@ -44,5 +44,6 @@ Welcome to my Data Analytics portfolio! This repository contains a collection of
 I am committed to continuous learning and regularly build new projects to strengthen my skills in SQL, Python, Excel, Power BI, Tableau, and Azure while exploring new technologies in data analytics and data science.
 <br>
 ## 📫 Connect With Me
-  **Email:** tigisttwudu12@gmail.com
+
+- 📧 **Email:** tigisttwudu12@gmail.com
 - 💼 **LinkedIn:** [Tigist Abate](https://www.linkedin.com/in/tigist-abate-6425931a1)
